@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Najwa!
 
-<img src="assets/profil-najwa.jpg" alt="Najwa's profile photo" width="200"/>
-
 Welcome to my GitHub profile!  
 This is a ✨ _special_ ✨ repository because the `README.md` file appears right on my GitHub profile page.
 

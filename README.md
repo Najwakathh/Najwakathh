@@ -13,5 +13,5 @@ This is a ✨ _special_ ✨ repository because the `README.md` file appears righ
 - React.js & Tailwind CSS
 
 ### 📫 How to reach me
-- Email: najwakathh@example.com
+- Email: najwakathh@gmail.com
 - Instagram: [@najwakathh](https://instagram.com/najwakathh)

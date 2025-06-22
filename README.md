@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Najwa!
 
-<!--
-**Najwakathh/Najwakathh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/profil-najwa.jpg" alt="Najwa's profile photo" width="200"/>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+This is a ✨ _special_ ✨ repository because the `README.md` file appears right on my GitHub profile page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 I'm currently working on
+- Frontend & UI/UX projects
+- Personal branding designs
+
+### 📚 I'm currently learning
+- React.js & Tailwind CSS
+
+### 📫 How to reach me
+- Email: najwakathh@example.com
+- Instagram: [@najwakathh](https://instagram.com/najwakathh)

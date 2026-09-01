@@ -33,6 +33,11 @@
 
 ---
 
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Najwakathh&theme=juicyfresh&no-bg=true&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories)
+
+---
+
 ## 🚧 Currently Working On
 - Frontend & UI/UX projects  
 - Personal branding designs  

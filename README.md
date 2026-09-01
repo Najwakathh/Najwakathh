@@ -23,7 +23,7 @@
 ---
 
 ## 🐍 Fun Game
-![GitHub Snake Light](https://github.com/Najwakathh/Najwakathh/blob/output/github-contribution-grid-snakes.svg)
+![GitHub Snake](https://github.com/Najwakathh/Najwakathh/blob/output/github-contribution-grid-snakes.svg)
 
 ---
 
@@ -35,6 +35,7 @@
 
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=Najwakathh&theme=juicyfresh&no-bg=true&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories)
+
 
 ---
 

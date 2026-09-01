@@ -23,7 +23,7 @@
 ---
 
 ## 🐍 Fun Game
-![GitHub Snake Light](https://github.com/Najwakathh/Najwakathh/blob/output/dist/snake.yml)
+![GitHub Snake Light](https://github.com/Najwakathh/Najwakathh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
